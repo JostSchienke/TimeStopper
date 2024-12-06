@@ -37,4 +37,4 @@ You can find the full text of the license [here](LICENSE).
 
 ---
 
-Enjoy the Timer Challenge Plugin! 🎉
+Enjoy the Timer Stopper Plugin! 🎉
