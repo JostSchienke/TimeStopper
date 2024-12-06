@@ -1,0 +1,13 @@
+name: TimeStopper
+version: '1.0-SNAPSHOT'
+main: eng.jes_ster.timeStopper.TimeStopper
+api-version: '1.21.4'
+authors: [ JES_ster ]
+description: A plugin that adds a Timer that stops when you pickup a XP --- made by JES_ster
+commands:
+  timerstart:
+    description: Start the timer for a player.
+  timerstop:
+    description: Stop the timer for a player.
+  timerreset:
+    description: Reset the timer for a player.
